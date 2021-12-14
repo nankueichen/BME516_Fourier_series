@@ -1,1 +1,1 @@
-# BME516_Fourier_series
+# BME516 Fourier series
